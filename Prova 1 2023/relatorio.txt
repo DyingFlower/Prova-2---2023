@@ -1,0 +1,1 @@
+Jogador: arthurPontuação: -5Quantidade de celulas clicadas: 1Quantidade de Alunos encontrados: 1Quantidade de Bugs encontrados: 1Pontos da peça: Torre ->10Pontos da peça: Cavalo ->-15Pontos da peça: Bispo ->0
